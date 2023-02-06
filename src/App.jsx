@@ -10,7 +10,7 @@ export default function App() {
 <>
 <div className="bg-gray-100">
 <Navbar>fdgd</Navbar>
-<Section1></Section1>
+<Section1>Another change</Section1>
 <Section2></Section2>
 
 <Section3></Section3>
