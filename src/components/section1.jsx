@@ -12,7 +12,7 @@ Let us create Projects
 Fast.
 </h1>
 <p className="w-4/6 text-lg text-gray-600">
-You all have to create project
+You all have to create project. We are using react with help of vite for creation of a web app.
 </p>
 <div className="flex flex-col w-full mt-6 space-y-3 lg:space-y-0 lg:space-x-3 lg:flex-row lg:px-0">
 <a href="https://flurly.com/p/tailmars" className="inline-flex items-center justify-center px-6 py-3 mx-auto text-lg font-medium text-white rounded-md lg:mx-0 bg-primary-600 hover:bg-primary-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-primary-600">

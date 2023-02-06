@@ -9,7 +9,7 @@ export default function App() {
  return (
 <>
 <div className="bg-gray-100">
-<Navbar>fdgd</Navbar>
+<Navbar>This is great</Navbar>
 <Section1>Another change</Section1>
 <Section2></Section2>
 
